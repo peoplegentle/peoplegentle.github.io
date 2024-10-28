@@ -4,7 +4,7 @@ author: peoplegentle # You :P
 description: > # Meta description of Homepage
   김승준이 제작한 게임 및 활동 프로젝트를 전시하는 공간.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://peoplegentle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:

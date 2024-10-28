@@ -133,7 +133,7 @@ gulp.task( "sw", () => {
 
 // Images
 gulp.task( "img", () => {
-  return gulp.src( "https://github.com/peoplegentle/peoplegentle.github.io/tree/main/_img/posts/*.{png,jpg}" )
+  return gulp.src( "_img/posts/*.{png,jpg}" )
     .pipe( responsive( {
         "*": [ // For all the images in the posts folder
           {
@@ -178,7 +178,7 @@ gulp.task( "img", () => {
         silent: true
       } ) )
       .pipe( imagemin() )
-      .pipe( gulp.dest( "https://github.com/peoplegentle/peoplegentle.github.io/tree/main/_img/posts" ) );
+      .pipe( gulp.dest( "assets/img/posts/" ) );
 } );
 
 // Build the Jekyll Site
