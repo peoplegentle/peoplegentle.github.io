@@ -1,36 +1,34 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
-author: GitHub User # You :P
+title: peoplegentle # your site title
+author: peoplegentle # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  김승준이 제작한 게임 및 활동 프로젝트를 전시하는 공간.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: 김승준
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    # - https://twitter.com/BenBalter
+    # - https://www.facebook.com/ben.balter
+    # - https://www.linkedin.com/in/BenBalter
+    # - https://plus.google.com/+BenBalter
+    # - https://github.com/benbalter
+    # - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  # - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: aefz0512@gmail.com # email for form submission
 
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
