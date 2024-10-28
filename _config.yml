@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: peoplegentle # your site title
+title: 승준이의 작품관 # your site title
 author: peoplegentle # You :P
 description: > # Meta description of Homepage
   김승준이 제작한 게임 및 활동 프로젝트를 전시하는 공간.
@@ -10,12 +10,12 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 social:
   name: 김승준
   links:
-    # - https://twitter.com/BenBalter
-    # - https://www.facebook.com/ben.balter
-    # - https://www.linkedin.com/in/BenBalter
-    # - https://plus.google.com/+BenBalter
-    # - https://github.com/benbalter
-    # - https://keybase.io/benbalter
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://plus.google.com/+BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -24,7 +24,7 @@ navigation: # Navigation links
   # - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  직접 제작한 게임 및 활동한 프로젝트 등을 전시하는 공간 입니다.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
