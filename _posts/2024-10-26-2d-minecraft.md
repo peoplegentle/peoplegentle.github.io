@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2D Minecraft
-featured-img: 2d-minecraft
+featured-img: "2d-minecraft"
 mathjax: true
 categories: [project, python, pgzero, game]
 ---

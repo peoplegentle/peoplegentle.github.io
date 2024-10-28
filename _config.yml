@@ -24,7 +24,7 @@ navigation: # Navigation links
   # - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  직접 제작한 게임 및 활동한 프로젝트 등을 전시하는 공간 입니다.
+  직접 제작한 게임 및 활동한 프로젝트 등을 전시하는 공간 입니다
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
