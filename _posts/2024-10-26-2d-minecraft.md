@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 2D Minecraft
-featured-img: "https://github.com/user-attachments/assets/3bf64e73-056e-48ed-8959-d91b9c1d57c1"
+featured-img: 2d-minecraft
 mathjax: true
 categories: [project, python, pgzero, game]
 ---
 
-# 프로젝트 소개
 이 프로젝트는 2024년 2월부터 5개월간 Python 기초를 학습하고, 1개월간 pgzero 활용법을 익힌 후, 2개월 동안 개발한 간단한 2D Minecraft 게임입니다. Python의 pgzero 라이브러리를 사용하여 제작되었습니다.
 <br>
 <br>
